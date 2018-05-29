@@ -17,6 +17,3 @@ print(max(numero_de_usuario_uno, numero_de_usuario_dos, numero_de_usuario_tres))
 
 
 
-
-
-
